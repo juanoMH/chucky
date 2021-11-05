@@ -1,0 +1,65 @@
+body{
+    background: url(imagenes/fondo.jpg);
+}
+
+.contenedor {
+    width: 965px;
+    background: rgb(0, 0, 0);
+    margin: auto;
+    border-radius: 25px;
+}
+
+.header img {
+    margin-left: 10px;
+}
+
+.top {
+    margin-top: 30px;
+}
+
+.menu {
+    float: right;
+}
+
+.menu li{
+    display: inline-block;
+}
+
+.menu a{
+    color: rgb(241, 227, 227);
+    text-decoration: none;
+    padding: 20px;
+}
+
+.menu a:hover {
+    background-color: rgb(53, 22, 167);
+
+}
+
+
+.col {
+    width: 265px;
+    display: inline-block;
+    vertical-align: top;
+    text-align: justify;
+    padding: 20px;
+}
+
+.row {
+    text-align: center;
+    color: aliceblue;
+}
+
+.footer  {
+    
+    overflow: hidden;
+}
+
+
+.footer a{
+    color: rgb(226, 217, 217);
+    text-decoration: none;
+}
+
+
+
